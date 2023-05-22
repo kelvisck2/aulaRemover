@@ -1,3 +1,4 @@
+#imprimindo o titulo
 print('aaaaaaaaaaa')
 
 
@@ -12,6 +13,13 @@ class Endereco:
         self.idade = idade
 
 
+print('')
+
+def imprimeNome(nome)
+    print(nome)
+
+def calcular(a, b):
+    print(a+b)
 
 
 
