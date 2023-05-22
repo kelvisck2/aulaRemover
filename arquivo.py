@@ -6,3 +6,8 @@ print('')
 def imprimeNome(nome)
     print(nome)
 
+def calcular(a, b):
+    print(a+b)
+
+
+
